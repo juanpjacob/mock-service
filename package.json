@@ -1,0 +1,9 @@
+{
+  "private": "true",
+  "scripts": {
+    "start": "node src/main.mjs"
+  },
+  "dependencies": {
+    "fastify": "^4.10.2"
+  }
+}
